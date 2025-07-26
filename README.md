@@ -1,5 +1,5 @@
 ## Hi! 👾
 ### My name's Jacob. Welcome to my Github!
 
-Check out my [website](https://www.jacobford.dev/) for my resume and contact info.
+Vandals stole my domain when I forgot to renew it, so I've no website to boast.
 
